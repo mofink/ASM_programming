@@ -1,6 +1,6 @@
 # ASM_programming
 
-These were written for a x86_64 running macOS 10.14 and assembled with NASM (Intel syntax).
+These were written for x86_64 running macOS 10.14 and assembled with NASM (Intel syntax).
 
 Assemble using
 nasm -f macho64 main.asm -o main.o
